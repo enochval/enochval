@@ -1,16 +1,28 @@
-<p align="center"><img alt="a black background with white text Enoch Osarenren" src="https://github.com/enochval/enochval/assets/21349859/81186872-7e0e-42d6-aa08-2c5379403740"></p>
+# Hi, I’m Enoch 👋
 
-<!--
-**enochval/enochval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer building reliable, high-scale systems with a focus on
+**fintech, HR-tech, event-driven architectures, and platform engineering**.
 
-Here are some ideas to get you started:
+### What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Core banking, payments, ledgers, and transaction processing systems
+- Event-driven and service-oriented backends with clear contracts
+- Multi-tenant SaaS platforms with strong data isolation and auditability
+
+### Highlights
+
+- Zero-downtime deployments with SLO-backed monitoring
+- Monolith → services and on-prem → cloud migrations
+- Near-real-time data and reporting pipelines
+- Engineering standards: ADRs, on-call playbooks, runbooks
+
+### Open Source
+
+- **GraphQLPlaceholder** — GraphQL-powered mock API service for rapid prototyping
+
+### Stack
+
+TypeScript / Node.js / NestJS · PHP / Laravel · Java · PostgreSQL · MySQL · NATS / Kafka · AWS · Docker · Kubernetes  
+(Working knowledge: React, Next.js)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/enoch-osarenren/)
