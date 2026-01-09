@@ -1,5 +1,5 @@
 # 💫 About Me:
-I value ownership over visibility and outcomes over activity. I build backend systems that support real operations, move money, and stay reliable as scale and complexity increase. I take responsibility for how systems behave in production, how teams support them, and how they evolve over time.<br><br>I work primarily with Node.js, TypeScript, and NestJS, PHP, Laravel, Python and Java. I design event-driven and service-oriented systems, work extensively with relational databases, and deploy on AWS using Docker and Kubernetes.<br><br>I lead by staying close to the work and leaving teams and systems stronger than I found them.
+I value ownership over visibility and outcomes over activity. I build backend systems that support real operations, move money, and remain reliable as scale and complexity increase. I take responsibility for how systems behave in production, how teams support them, and how they evolve over time.<br><br>I work primarily with Node.js, TypeScript, and NestJS, with strong production experience in PHP Laravel, Python, and Java. I design event-driven and service-oriented systems, work extensively with relational databases, and own cloud infrastructure on AWS using Docker and Kubernetes.<br><br>I lead by staying close to the work and leaving teams, systems, and platforms stronger than I found them.
 
 
 ## 🌐 Socials:
