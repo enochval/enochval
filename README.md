@@ -1,28 +1,11 @@
-# Hi, I’m Enoch 👋
+# 💫 About Me:
+I value ownership over visibility and outcomes over activity. I build backend systems that support real operations, move money, and stay reliable as scale and complexity increase. I take responsibility for how systems behave in production, how teams support them, and how they evolve over time.<br>I work primarily with Node.js, TypeScript, and NestJS, PHP, Laravel, Python and Java. I design event-driven and service-oriented systems, work extensively with relational databases, and deploy on AWS using Docker and Kubernetes.<br>I lead by staying close to the work and leaving teams and systems stronger than I found them.
 
-Senior Backend Engineer building reliable, high-scale systems with a focus on
-**fintech, HR-tech, event-driven architectures, and platform engineering**.
 
-### What I Build
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/enoch-osarenren) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@enochosarenren) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enochvl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osarenrenenoch@gmail.com) 
 
-- Core banking, payments, ledgers, and transaction processing systems
-- Event-driven and service-oriented backends with clear contracts
-- Multi-tenant SaaS platforms with strong data isolation and auditability
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Highlights
-
-- Zero-downtime deployments with SLO-backed monitoring
-- Monolith → services and on-prem → cloud migrations
-- Near-real-time data and reporting pipelines
-- Engineering standards: ADRs, on-call playbooks, runbooks
-
-### Open Source
-
-- **GraphQLPlaceholder** — GraphQL-powered mock API service for rapid prototyping
-
-### Stack
-
-TypeScript / Node.js / NestJS · PHP / Laravel · Java · PostgreSQL · MySQL · NATS / Kafka · AWS · Docker · Kubernetes  
-(Working knowledge: React, Next.js)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/enoch-osarenren/)
+---
